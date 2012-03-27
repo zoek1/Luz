@@ -1,0 +1,10 @@
+{ 
+   "shell-theme": {
+   "name": "Luz", 
+   "author": "Garthech, vyper, personalizado por Zoek", 
+   "version": "1,0",
+   "type":   "custom",
+   "thumbnail": "luz-screenshot.png", 
+   "url": "www.github.com/zoek1/Luz/" 
+    }
+}
